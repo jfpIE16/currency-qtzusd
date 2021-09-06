@@ -1,0 +1,26 @@
+Banrural:
+    Compra: <span id="dnn_ctr617_br_tipodecambio_lblUSDCompra">Q. 7.66</span>
+    Venta: <span id="dnn_ctr617_br_tipodecambio_lblUSDVenta">Q. 7.66</span>
+Banco Industrial:
+    Compra: <span id="agencia_purchase">7.60</span>
+    Venta: <span id="agencia_sell">7.85</span>
+BAM:
+    Compra: <span class="o-section-exchage-rate-item-precios_valor-compra">Q. <!-- -->7.58</span>
+    Venta: <span class="o-section-exchage-rate-item-precios_valor">Q. <!-- -->7.58</span>
+CHN:
+    <div class="tasa">				  
+	<h5>&nbsp; Compra:7.5&nbsp;Venta:7.88</h5>		
+    </div>
+Banco de Guatemala:
+    <b>Q7.74751</b>
+Ficohsa:
+    Compra: /html[1]/body[1]/div[2]/div[1]/article[1]/h3[2]/span[1]
+    Venta: /html[1]/body[1]/div[2]/div[1]/article[1]/h3[2]/span[2]
+Banco Azteca:
+    Compra: /html[1]/body[1]/div[5]/div[1]/div[1]/p[1]
+    Venta: /html[1]/body[1]/div[5]/div[1]/div[1]/p[2]
+InterBanco:
+    JsonFile: https://www.interbanco.com.gt/wsIntegra/js/TipoCambio.js?_=1627797271430
+    Campos utilizados:
+        VentaGeneral
+        CompraGeneral
