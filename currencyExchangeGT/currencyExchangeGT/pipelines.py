@@ -10,4 +10,5 @@ from itemadapter import ItemAdapter
 
 class CurrencyexchangegtPipeline:
     def process_item(self, item, spider):
+        print("Pipeline: " + item['Banco'])
         return item
